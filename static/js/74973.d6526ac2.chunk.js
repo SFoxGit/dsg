@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdsg=self.webpackChunkdsg||[]).push([[74973],{74973:function(A){A.exports="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAAf0lEQVRYhe3SMQqAMAwF0FQcvIQeId30ENbT6iUc2yPoJdwiSgtOhdYOHf6DQJbAJwkBAECEiERrNqPk7q8puXizTHIel6oizF9VhWlTB8Ip+qF7f+PprbVFwiTfl5nJBwmzoZdt3ZXWmpxzWWGyzuSfVHzRNwgAAAAAQM2I6Ab5KjrIgzH/2QAAAABJRU5ErkJggg=="}}]);
